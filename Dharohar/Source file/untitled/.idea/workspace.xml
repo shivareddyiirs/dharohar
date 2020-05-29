@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64ceec41-0956-4e95-ae29-0c174e89488b" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/sources$main.coverage" NAME="main Coverage Results" MODIFIED="1524070914044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="50" lean-forward="false" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+              <folding>
+                <marker date="1524113500769" expanded="true" signature="8918:8966" ph="DROP TABLE I... " />
+                <marker date="1524113500769" expanded="true" signature="9077:9125" ph="DROP TABLE I... " />
+                <marker date="1524113500769" expanded="true" signature="9236:9286" ph="DROP TABLE I... " />
+                <marker date="1524113500769" expanded="true" signature="9524:9654" ph="SELECT usena... pg_user" />
+                <marker date="1524113500769" expanded="true" signature="9901:9988" ph="SELECT DISTI... pg_tables" />
+                <marker date="1524113500769" expanded="true" signature="10031:10206" ph="SELECT DISTI... table_privileges" />
+                <marker date="1524113500769" expanded="true" signature="11453:11583" ph="SELECT usena... pg_user" />
+                <marker date="1524113500769" expanded="true" signature="11932:12019" ph="SELECT DISTI... pg_tables" />
+                <marker date="1524113500769" expanded="true" signature="12164:12236" ph="SELECT table... pg_tables" />
+                <marker date="1524113500769" expanded="true" signature="13312:13398" ph="SELECT usena... pg_user" />
+                <marker date="1524113500769" expanded="true" signature="14607:14672" ph="SELECT * FRO... PG_SHADOW" />
+                <marker date="1524113500769" expanded="true" signature="18594:18622" ph="SELECT GRONA... PG_GROUP" />
+                <marker date="1524113500769" expanded="true" signature="20678:20766" ph="select usena... pg_shadow" />
+                <marker date="1524113500769" expanded="true" signature="21432:21530" ph="UPDATE passw... " />
+                <marker date="1524113500769" expanded="true" signature="23023:23087" ph="DELETE FROM " />
+                <marker date="1524113500769" expanded="true" signature="23176:23264" ph="select usena... pg_shadow" />
+                <marker date="1524113500769" expanded="true" signature="25675:25702" ph="select usena... pg_user" />
+                <marker date="1524113500769" expanded="true" signature="25851:25879" ph="select grona... pg_group" />
+                <marker date="1524113500769" expanded="true" signature="28353:28381" ph="SELECT GRONA... PG_GROUP" />
+                <marker date="1524113500769" expanded="true" signature="29639:29727" ph="select usena... pg_shadow" />
+                <marker date="1524113500769" expanded="true" signature="30528:30596" ph="INSERT INTO password_change_status... " />
+                <marker date="1524113500769" expanded="true" signature="33691:33817" ph="SELECT usena... pg_user" />
+                <marker date="1524113500769" expanded="true" signature="34036:34123" ph="SELECT DISTI... pg_tables" />
+                <marker date="1524113500769" expanded="true" signature="34158:34324" ph="SELECT DISTI... table_privileges" />
+                <marker date="1524113500769" expanded="true" signature="34823:34911" ph="select usena... pg_shadow" />
+                <marker date="1524113500769" expanded="true" signature="35213:35241" ph="SELECT GRONA... PG_GROUP" />
+                <marker date="1524113500769" expanded="true" signature="35936:36025" ph="SELECT secur... password_change_status" />
+                <marker date="1524113500769" expanded="true" signature="39933:40020" ph="SELECT DISTI... pg_tables" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="windowVisualization.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/windowVisualization.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3264">
+              <caret line="111" column="87" lean-forward="false" selection-start-line="111" selection-start-column="87" selection-end-line="111" selection-end-column="87" />
+              <folding>
+                <element signature="e#0#27#0" expanded="true" />
+                <marker date="1524121358988" expanded="true" signature="7245:7375" ph="SELECT usena... pg_user" />
+                <marker date="1524121358988" expanded="true" signature="9962:10088" ph="SELECT usena... pg_user" />
+                <marker date="1524121358988" expanded="true" signature="10307:10411" ph="SELECT DISTI... pg_tables" />
+                <marker date="1524121358988" expanded="true" signature="10446:10615" ph="SELECT DISTI... table_privileges" />
+                <marker date="1524121358988" expanded="true" signature="14534:14660" ph="SELECT usena... pg_user" />
+                <marker date="1524121358988" expanded="true" signature="14879:14966" ph="SELECT DISTI... pg_tables" />
+                <marker date="1524121358988" expanded="true" signature="15001:15172" ph="SELECT DISTI... table_privileges" />
+                <marker date="1524121358988" expanded="true" signature="19246:19281" ph="Select at le... " />
+                <marker date="1524121358988" expanded="true" signature="20224:20273" ph="Select at le... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aSetUp.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aSetUp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>project_admins</find>
+      <find>Proceed</find>
+      <find>self.projects</find>
+      <find>depth</find>
+      <find>rdt</find>
+      <find>afterLogIn</find>
+      <find>addUser</find>
+      <find>proceed</find>
+      <find>logIn</find>
+      <find>manageProject</find>
+      <find>manageProj</find>
+      <find>updateUser</find>
+      <find>mess</find>
+      <find>help</find>
+      <find>afterLogin</find>
+      <find>closeE</find>
+      <find>deleteProject</find>
+      <find>web</find>
+      <find>webbrowser</find>
+      <find>close</find>
+      <find>deletePro</find>
+      <find>refresh</find>
+      <find>textureDone</find>
+      <find>setS</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/figureViewDialog.py" />
+        <option value="$PROJECT_DIR$/credits.py" />
+        <option value="$PROJECT_DIR$/tableVisualization.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/aSetUp.py" />
+        <option value="$PROJECT_DIR$/../../untitled 5.3.18(tanslation) - Working/windowVisualization.py" />
+        <option value="$PROJECT_DIR$/windowVisualization.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="683" />
+    <option name="width" value="683" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sources" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="sources" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sources/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../untitled 5.3.18(tanslation) - Working" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="sources" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../untitled 5.3.18(tanslation) - Working/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="sources" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Python.main" />
+      <item index="1" class="java.lang.String" itemvalue="Python.main (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.main (2)" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.main (2)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64ceec41-0956-4e95-ae29-0c174e89488b" name="Default" comment="" />
+      <created>1523893912903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523893912903</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32795697" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1524113500769" expanded="true" signature="8918:8966" ph="DROP TABLE I... " />
+            <marker date="1524113500769" expanded="true" signature="9077:9125" ph="DROP TABLE I... " />
+            <marker date="1524113500769" expanded="true" signature="9236:9286" ph="DROP TABLE I... " />
+            <marker date="1524113500769" expanded="true" signature="9524:9654" ph="SELECT usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="9901:9988" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524113500769" expanded="true" signature="10031:10206" ph="SELECT DISTI... table_privileges" />
+            <marker date="1524113500769" expanded="true" signature="11453:11583" ph="SELECT usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="11932:12019" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524113500769" expanded="true" signature="12164:12236" ph="SELECT table... pg_tables" />
+            <marker date="1524113500769" expanded="true" signature="13312:13398" ph="SELECT usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="14607:14672" ph="SELECT * FRO... PG_SHADOW" />
+            <marker date="1524113500769" expanded="true" signature="18594:18622" ph="SELECT GRONA... PG_GROUP" />
+            <marker date="1524113500769" expanded="true" signature="20678:20766" ph="select usena... pg_shadow" />
+            <marker date="1524113500769" expanded="true" signature="21432:21530" ph="UPDATE passw... " />
+            <marker date="1524113500769" expanded="true" signature="23023:23087" ph="DELETE FROM " />
+            <marker date="1524113500769" expanded="true" signature="23176:23264" ph="select usena... pg_shadow" />
+            <marker date="1524113500769" expanded="true" signature="25675:25702" ph="select usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="25851:25879" ph="select grona... pg_group" />
+            <marker date="1524113500769" expanded="true" signature="28353:28381" ph="SELECT GRONA... PG_GROUP" />
+            <marker date="1524113500769" expanded="true" signature="29639:29727" ph="select usena... pg_shadow" />
+            <marker date="1524113500769" expanded="true" signature="30528:30596" ph="INSERT INTO password_change_status... " />
+            <marker date="1524113500769" expanded="true" signature="33691:33817" ph="SELECT usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="34036:34123" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524113500769" expanded="true" signature="34158:34324" ph="SELECT DISTI... table_privileges" />
+            <marker date="1524113500769" expanded="true" signature="34823:34911" ph="select usena... pg_shadow" />
+            <marker date="1524113500769" expanded="true" signature="35213:35241" ph="SELECT GRONA... PG_GROUP" />
+            <marker date="1524113500769" expanded="true" signature="35936:36025" ph="SELECT secur... password_change_status" />
+            <marker date="1524113500769" expanded="true" signature="39933:40020" ph="SELECT DISTI... pg_tables" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/windowVisualization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5695">
+          <caret line="335" column="0" lean-forward="false" selection-start-line="335" selection-start-column="0" selection-end-line="335" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+            <marker date="1524121358988" expanded="true" signature="7245:7375" ph="SELECT usena... pg_user" />
+            <marker date="1524121358988" expanded="true" signature="9962:10088" ph="SELECT usena... pg_user" />
+            <marker date="1524121358988" expanded="true" signature="10307:10411" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524121358988" expanded="true" signature="10446:10615" ph="SELECT DISTI... table_privileges" />
+            <marker date="1524121358988" expanded="true" signature="14534:14660" ph="SELECT usena... pg_user" />
+            <marker date="1524121358988" expanded="true" signature="14879:14966" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524121358988" expanded="true" signature="15001:15172" ph="SELECT DISTI... table_privileges" />
+            <marker date="1524121358988" expanded="true" signature="19246:19281" ph="Select at le... " />
+            <marker date="1524121358988" expanded="true" signature="20224:20273" ph="Select at le... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tableVisualization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/windowVisualization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4700">
+          <caret line="235" column="25" lean-forward="false" selection-start-line="235" selection-start-column="25" selection-end-line="235" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+            <marker date="1524121358988" expanded="true" signature="7245:7375" ph="SELECT usena... pg_user" />
+            <marker date="1524121358988" expanded="true" signature="9962:10088" ph="SELECT usena... pg_user" />
+            <marker date="1524121358988" expanded="true" signature="10307:10411" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524121358988" expanded="true" signature="10446:10615" ph="SELECT DISTI... table_privileges" />
+            <marker date="1524121358988" expanded="true" signature="14534:14660" ph="SELECT usena... pg_user" />
+            <marker date="1524121358988" expanded="true" signature="14879:14966" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524121358988" expanded="true" signature="15001:15172" ph="SELECT DISTI... table_privileges" />
+            <marker date="1524121358988" expanded="true" signature="19246:19281" ph="Select at le... " />
+            <marker date="1524121358988" expanded="true" signature="20224:20273" ph="Select at le... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../aSetUp.py" />
+    <entry file="file://C:/Python27/Lib/xml/etree/ElementTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12880">
+          <caret line="646" column="0" lean-forward="false" selection-start-line="646" selection-start-column="0" selection-end-line="646" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="50" lean-forward="true" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+          <folding>
+            <marker date="1524113500769" expanded="true" signature="8918:8966" ph="DROP TABLE I... " />
+            <marker date="1524113500769" expanded="true" signature="9077:9125" ph="DROP TABLE I... " />
+            <marker date="1524113500769" expanded="true" signature="9236:9286" ph="DROP TABLE I... " />
+            <marker date="1524113500769" expanded="true" signature="9524:9654" ph="SELECT usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="9901:9988" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524113500769" expanded="true" signature="10031:10206" ph="SELECT DISTI... table_privileges" />
+            <marker date="1524113500769" expanded="true" signature="11453:11583" ph="SELECT usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="11932:12019" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524113500769" expanded="true" signature="12164:12236" ph="SELECT table... pg_tables" />
+            <marker date="1524113500769" expanded="true" signature="13312:13398" ph="SELECT usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="14607:14672" ph="SELECT * FRO... PG_SHADOW" />
+            <marker date="1524113500769" expanded="true" signature="18594:18622" ph="SELECT GRONA... PG_GROUP" />
+            <marker date="1524113500769" expanded="true" signature="20678:20766" ph="select usena... pg_shadow" />
+            <marker date="1524113500769" expanded="true" signature="21432:21530" ph="UPDATE passw... " />
+            <marker date="1524113500769" expanded="true" signature="23023:23087" ph="DELETE FROM " />
+            <marker date="1524113500769" expanded="true" signature="23176:23264" ph="select usena... pg_shadow" />
+            <marker date="1524113500769" expanded="true" signature="25675:25702" ph="select usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="25851:25879" ph="select grona... pg_group" />
+            <marker date="1524113500769" expanded="true" signature="28353:28381" ph="SELECT GRONA... PG_GROUP" />
+            <marker date="1524113500769" expanded="true" signature="29639:29727" ph="select usena... pg_shadow" />
+            <marker date="1524113500769" expanded="true" signature="30528:30596" ph="INSERT INTO password_change_status... " />
+            <marker date="1524113500769" expanded="true" signature="33691:33817" ph="SELECT usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="34036:34123" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524113500769" expanded="true" signature="34158:34324" ph="SELECT DISTI... table_privileges" />
+            <marker date="1524113500769" expanded="true" signature="34823:34911" ph="select usena... pg_shadow" />
+            <marker date="1524113500769" expanded="true" signature="35213:35241" ph="SELECT GRONA... PG_GROUP" />
+            <marker date="1524113500769" expanded="true" signature="35936:36025" ph="SELECT secur... password_change_status" />
+            <marker date="1524113500769" expanded="true" signature="39933:40020" ph="SELECT DISTI... pg_tables" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tableVisualization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/windowVisualization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3621">
+          <caret line="235" column="25" lean-forward="true" selection-start-line="235" selection-start-column="25" selection-end-line="235" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+            <marker date="1524121358988" expanded="true" signature="7245:7375" ph="SELECT usena... pg_user" />
+            <marker date="1524121358988" expanded="true" signature="9962:10088" ph="SELECT usena... pg_user" />
+            <marker date="1524121358988" expanded="true" signature="10307:10411" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524121358988" expanded="true" signature="10446:10615" ph="SELECT DISTI... table_privileges" />
+            <marker date="1524121358988" expanded="true" signature="14534:14660" ph="SELECT usena... pg_user" />
+            <marker date="1524121358988" expanded="true" signature="14879:14966" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524121358988" expanded="true" signature="15001:15172" ph="SELECT DISTI... table_privileges" />
+            <marker date="1524121358988" expanded="true" signature="19246:19281" ph="Select at le... " />
+            <marker date="1524121358988" expanded="true" signature="20224:20273" ph="Select at le... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/xml/etree/ElementTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10948">
+          <caret line="646" column="0" lean-forward="false" selection-start-line="646" selection-start-column="0" selection-end-line="646" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2907">
+          <caret line="171" column="25" lean-forward="false" selection-start-line="171" selection-start-column="25" selection-end-line="171" selection-end-column="25" />
+          <folding>
+            <marker date="1524113500769" expanded="true" signature="8918:8966" ph="DROP TABLE I... " />
+            <marker date="1524113500769" expanded="true" signature="9077:9125" ph="DROP TABLE I... " />
+            <marker date="1524113500769" expanded="true" signature="9236:9286" ph="DROP TABLE I... " />
+            <marker date="1524113500769" expanded="true" signature="9524:9654" ph="SELECT usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="9901:9988" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524113500769" expanded="true" signature="10031:10206" ph="SELECT DISTI... table_privileges" />
+            <marker date="1524113500769" expanded="true" signature="11453:11583" ph="SELECT usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="11932:12019" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524113500769" expanded="true" signature="12164:12236" ph="SELECT table... pg_tables" />
+            <marker date="1524113500769" expanded="true" signature="13312:13398" ph="SELECT usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="14607:14672" ph="SELECT * FRO... PG_SHADOW" />
+            <marker date="1524113500769" expanded="true" signature="18594:18622" ph="SELECT GRONA... PG_GROUP" />
+            <marker date="1524113500769" expanded="true" signature="20678:20766" ph="select usena... pg_shadow" />
+            <marker date="1524113500769" expanded="true" signature="21432:21530" ph="UPDATE passw... " />
+            <marker date="1524113500769" expanded="true" signature="23023:23087" ph="DELETE FROM " />
+            <marker date="1524113500769" expanded="true" signature="23176:23264" ph="select usena... pg_shadow" />
+            <marker date="1524113500769" expanded="true" signature="25675:25702" ph="select usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="25851:25879" ph="select grona... pg_group" />
+            <marker date="1524113500769" expanded="true" signature="28353:28381" ph="SELECT GRONA... PG_GROUP" />
+            <marker date="1524113500769" expanded="true" signature="29639:29727" ph="select usena... pg_shadow" />
+            <marker date="1524113500769" expanded="true" signature="30528:30596" ph="INSERT INTO password_change_status... " />
+            <marker date="1524113500769" expanded="true" signature="33691:33817" ph="SELECT usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="34036:34123" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524113500769" expanded="true" signature="34158:34324" ph="SELECT DISTI... table_privileges" />
+            <marker date="1524113500769" expanded="true" signature="34823:34911" ph="select usena... pg_shadow" />
+            <marker date="1524113500769" expanded="true" signature="35213:35241" ph="SELECT GRONA... PG_GROUP" />
+            <marker date="1524113500769" expanded="true" signature="35936:36025" ph="SELECT secur... password_change_status" />
+            <marker date="1524113500769" expanded="true" signature="39933:40020" ph="SELECT DISTI... pg_tables" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1524113500769" expanded="true" signature="8918:8966" ph="DROP TABLE I... " />
+            <marker date="1524113500769" expanded="true" signature="9077:9125" ph="DROP TABLE I... " />
+            <marker date="1524113500769" expanded="true" signature="9236:9286" ph="DROP TABLE I... " />
+            <marker date="1524113500769" expanded="true" signature="9524:9654" ph="SELECT usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="9901:9988" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524113500769" expanded="true" signature="10031:10206" ph="SELECT DISTI... table_privileges" />
+            <marker date="1524113500769" expanded="true" signature="11453:11583" ph="SELECT usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="11932:12019" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524113500769" expanded="true" signature="12164:12236" ph="SELECT table... pg_tables" />
+            <marker date="1524113500769" expanded="true" signature="13312:13398" ph="SELECT usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="14607:14672" ph="SELECT * FRO... PG_SHADOW" />
+            <marker date="1524113500769" expanded="true" signature="18594:18622" ph="SELECT GRONA... PG_GROUP" />
+            <marker date="1524113500769" expanded="true" signature="20678:20766" ph="select usena... pg_shadow" />
+            <marker date="1524113500769" expanded="true" signature="21432:21530" ph="UPDATE passw... " />
+            <marker date="1524113500769" expanded="true" signature="23023:23087" ph="DELETE FROM " />
+            <marker date="1524113500769" expanded="true" signature="23176:23264" ph="select usena... pg_shadow" />
+            <marker date="1524113500769" expanded="true" signature="25675:25702" ph="select usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="25851:25879" ph="select grona... pg_group" />
+            <marker date="1524113500769" expanded="true" signature="28353:28381" ph="SELECT GRONA... PG_GROUP" />
+            <marker date="1524113500769" expanded="true" signature="29639:29727" ph="select usena... pg_shadow" />
+            <marker date="1524113500769" expanded="true" signature="30528:30596" ph="INSERT INTO password_change_status... " />
+            <marker date="1524113500769" expanded="true" signature="33691:33817" ph="SELECT usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="34036:34123" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524113500769" expanded="true" signature="34158:34324" ph="SELECT DISTI... table_privileges" />
+            <marker date="1524113500769" expanded="true" signature="34823:34911" ph="select usena... pg_shadow" />
+            <marker date="1524113500769" expanded="true" signature="35213:35241" ph="SELECT GRONA... PG_GROUP" />
+            <marker date="1524113500769" expanded="true" signature="35936:36025" ph="SELECT secur... password_change_status" />
+            <marker date="1524113500769" expanded="true" signature="39933:40020" ph="SELECT DISTI... pg_tables" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13660">
+          <caret line="683" column="19" lean-forward="false" selection-start-line="683" selection-start-column="19" selection-end-line="683" selection-end-column="19" />
+          <folding>
+            <marker date="1524113500769" expanded="true" signature="8918:8966" ph="DROP TABLE I... " />
+            <marker date="1524113500769" expanded="true" signature="9077:9125" ph="DROP TABLE I... " />
+            <marker date="1524113500769" expanded="true" signature="9236:9286" ph="DROP TABLE I... " />
+            <marker date="1524113500769" expanded="true" signature="9524:9654" ph="SELECT usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="9901:9988" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524113500769" expanded="true" signature="10031:10206" ph="SELECT DISTI... table_privileges" />
+            <marker date="1524113500769" expanded="true" signature="11453:11583" ph="SELECT usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="11932:12019" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524113500769" expanded="true" signature="12164:12236" ph="SELECT table... pg_tables" />
+            <marker date="1524113500769" expanded="true" signature="13312:13398" ph="SELECT usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="14607:14672" ph="SELECT * FRO... PG_SHADOW" />
+            <marker date="1524113500769" expanded="true" signature="18594:18622" ph="SELECT GRONA... PG_GROUP" />
+            <marker date="1524113500769" expanded="true" signature="20678:20766" ph="select usena... pg_shadow" />
+            <marker date="1524113500769" expanded="true" signature="21432:21530" ph="UPDATE passw... " />
+            <marker date="1524113500769" expanded="true" signature="23023:23087" ph="DELETE FROM " />
+            <marker date="1524113500769" expanded="true" signature="23176:23264" ph="select usena... pg_shadow" />
+            <marker date="1524113500769" expanded="true" signature="25675:25702" ph="select usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="25851:25879" ph="select grona... pg_group" />
+            <marker date="1524113500769" expanded="true" signature="28353:28381" ph="SELECT GRONA... PG_GROUP" />
+            <marker date="1524113500769" expanded="true" signature="29639:29727" ph="select usena... pg_shadow" />
+            <marker date="1524113500769" expanded="true" signature="30528:30596" ph="INSERT INTO password_change_status... " />
+            <marker date="1524113500769" expanded="true" signature="33691:33817" ph="SELECT usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="34036:34123" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524113500769" expanded="true" signature="34158:34324" ph="SELECT DISTI... table_privileges" />
+            <marker date="1524113500769" expanded="true" signature="34823:34911" ph="select usena... pg_shadow" />
+            <marker date="1524113500769" expanded="true" signature="35213:35241" ph="SELECT GRONA... PG_GROUP" />
+            <marker date="1524113500769" expanded="true" signature="35936:36025" ph="SELECT secur... password_change_status" />
+            <marker date="1524113500769" expanded="true" signature="39933:40020" ph="SELECT DISTI... pg_tables" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/windowVisualization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5040">
+          <caret line="252" column="37" lean-forward="true" selection-start-line="252" selection-start-column="37" selection-end-line="252" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+            <marker date="1524121358988" expanded="true" signature="7245:7375" ph="SELECT usena... pg_user" />
+            <marker date="1524121358988" expanded="true" signature="9962:10088" ph="SELECT usena... pg_user" />
+            <marker date="1524121358988" expanded="true" signature="10307:10411" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524121358988" expanded="true" signature="10446:10615" ph="SELECT DISTI... table_privileges" />
+            <marker date="1524121358988" expanded="true" signature="14534:14660" ph="SELECT usena... pg_user" />
+            <marker date="1524121358988" expanded="true" signature="14879:14966" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524121358988" expanded="true" signature="15001:15172" ph="SELECT DISTI... table_privileges" />
+            <marker date="1524121358988" expanded="true" signature="19246:19281" ph="Select at le... " />
+            <marker date="1524121358988" expanded="true" signature="20224:20273" ph="Select at le... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="28" column="68" lean-forward="false" selection-start-line="28" selection-start-column="68" selection-end-line="28" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contactus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tableVisualization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="39" column="66" lean-forward="true" selection-start-line="39" selection-start-column="66" selection-end-line="39" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1524113500769" expanded="true" signature="8918:8966" ph="DROP TABLE I... " />
+            <marker date="1524113500769" expanded="true" signature="9077:9125" ph="DROP TABLE I... " />
+            <marker date="1524113500769" expanded="true" signature="9236:9286" ph="DROP TABLE I... " />
+            <marker date="1524113500769" expanded="true" signature="9524:9654" ph="SELECT usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="9901:9988" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524113500769" expanded="true" signature="10031:10206" ph="SELECT DISTI... table_privileges" />
+            <marker date="1524113500769" expanded="true" signature="11453:11583" ph="SELECT usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="11932:12019" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524113500769" expanded="true" signature="12164:12236" ph="SELECT table... pg_tables" />
+            <marker date="1524113500769" expanded="true" signature="13312:13398" ph="SELECT usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="14607:14672" ph="SELECT * FRO... PG_SHADOW" />
+            <marker date="1524113500769" expanded="true" signature="18594:18622" ph="SELECT GRONA... PG_GROUP" />
+            <marker date="1524113500769" expanded="true" signature="20678:20766" ph="select usena... pg_shadow" />
+            <marker date="1524113500769" expanded="true" signature="21432:21530" ph="UPDATE passw... " />
+            <marker date="1524113500769" expanded="true" signature="23023:23087" ph="DELETE FROM " />
+            <marker date="1524113500769" expanded="true" signature="23176:23264" ph="select usena... pg_shadow" />
+            <marker date="1524113500769" expanded="true" signature="25675:25702" ph="select usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="25851:25879" ph="select grona... pg_group" />
+            <marker date="1524113500769" expanded="true" signature="28353:28381" ph="SELECT GRONA... PG_GROUP" />
+            <marker date="1524113500769" expanded="true" signature="29639:29727" ph="select usena... pg_shadow" />
+            <marker date="1524113500769" expanded="true" signature="30528:30596" ph="INSERT INTO password_change_status... " />
+            <marker date="1524113500769" expanded="true" signature="33691:33817" ph="SELECT usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="34036:34123" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524113500769" expanded="true" signature="34158:34324" ph="SELECT DISTI... table_privileges" />
+            <marker date="1524113500769" expanded="true" signature="34823:34911" ph="select usena... pg_shadow" />
+            <marker date="1524113500769" expanded="true" signature="35213:35241" ph="SELECT GRONA... PG_GROUP" />
+            <marker date="1524113500769" expanded="true" signature="35936:36025" ph="SELECT secur... password_change_status" />
+            <marker date="1524113500769" expanded="true" signature="39933:40020" ph="SELECT DISTI... pg_tables" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/windowVisualization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8040">
+          <caret line="402" column="56" lean-forward="false" selection-start-line="402" selection-start-column="51" selection-end-line="402" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+            <marker date="1524121358988" expanded="true" signature="7245:7375" ph="SELECT usena... pg_user" />
+            <marker date="1524121358988" expanded="true" signature="9962:10088" ph="SELECT usena... pg_user" />
+            <marker date="1524121358988" expanded="true" signature="10307:10411" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524121358988" expanded="true" signature="10446:10615" ph="SELECT DISTI... table_privileges" />
+            <marker date="1524121358988" expanded="true" signature="14534:14660" ph="SELECT usena... pg_user" />
+            <marker date="1524121358988" expanded="true" signature="14879:14966" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524121358988" expanded="true" signature="15001:15172" ph="SELECT DISTI... table_privileges" />
+            <marker date="1524121358988" expanded="true" signature="19246:19281" ph="Select at le... " />
+            <marker date="1524121358988" expanded="true" signature="20224:20273" ph="Select at le... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/figureViewDialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="48" column="25" lean-forward="false" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1524113500769" expanded="true" signature="8918:8966" ph="DROP TABLE I... " />
+            <marker date="1524113500769" expanded="true" signature="9077:9125" ph="DROP TABLE I... " />
+            <marker date="1524113500769" expanded="true" signature="9236:9286" ph="DROP TABLE I... " />
+            <marker date="1524113500769" expanded="true" signature="9524:9654" ph="SELECT usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="9901:9988" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524113500769" expanded="true" signature="10031:10206" ph="SELECT DISTI... table_privileges" />
+            <marker date="1524113500769" expanded="true" signature="11453:11583" ph="SELECT usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="11932:12019" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524113500769" expanded="true" signature="12164:12236" ph="SELECT table... pg_tables" />
+            <marker date="1524113500769" expanded="true" signature="13312:13398" ph="SELECT usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="14607:14672" ph="SELECT * FRO... PG_SHADOW" />
+            <marker date="1524113500769" expanded="true" signature="18594:18622" ph="SELECT GRONA... PG_GROUP" />
+            <marker date="1524113500769" expanded="true" signature="20678:20766" ph="select usena... pg_shadow" />
+            <marker date="1524113500769" expanded="true" signature="21432:21530" ph="UPDATE passw... " />
+            <marker date="1524113500769" expanded="true" signature="23023:23087" ph="DELETE FROM " />
+            <marker date="1524113500769" expanded="true" signature="23176:23264" ph="select usena... pg_shadow" />
+            <marker date="1524113500769" expanded="true" signature="25675:25702" ph="select usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="25851:25879" ph="select grona... pg_group" />
+            <marker date="1524113500769" expanded="true" signature="28353:28381" ph="SELECT GRONA... PG_GROUP" />
+            <marker date="1524113500769" expanded="true" signature="29639:29727" ph="select usena... pg_shadow" />
+            <marker date="1524113500769" expanded="true" signature="30528:30596" ph="INSERT INTO password_change_status... " />
+            <marker date="1524113500769" expanded="true" signature="33691:33817" ph="SELECT usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="34036:34123" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524113500769" expanded="true" signature="34158:34324" ph="SELECT DISTI... table_privileges" />
+            <marker date="1524113500769" expanded="true" signature="34823:34911" ph="select usena... pg_shadow" />
+            <marker date="1524113500769" expanded="true" signature="35213:35241" ph="SELECT GRONA... PG_GROUP" />
+            <marker date="1524113500769" expanded="true" signature="35936:36025" ph="SELECT secur... password_change_status" />
+            <marker date="1524113500769" expanded="true" signature="39933:40020" ph="SELECT DISTI... pg_tables" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/windowVisualization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8040">
+          <caret line="402" column="56" lean-forward="false" selection-start-line="402" selection-start-column="51" selection-end-line="402" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+            <marker date="1524121358988" expanded="true" signature="7245:7375" ph="SELECT usena... pg_user" />
+            <marker date="1524121358988" expanded="true" signature="9962:10088" ph="SELECT usena... pg_user" />
+            <marker date="1524121358988" expanded="true" signature="10307:10411" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524121358988" expanded="true" signature="10446:10615" ph="SELECT DISTI... table_privileges" />
+            <marker date="1524121358988" expanded="true" signature="14534:14660" ph="SELECT usena... pg_user" />
+            <marker date="1524121358988" expanded="true" signature="14879:14966" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524121358988" expanded="true" signature="15001:15172" ph="SELECT DISTI... table_privileges" />
+            <marker date="1524121358988" expanded="true" signature="19246:19281" ph="Select at le... " />
+            <marker date="1524121358988" expanded="true" signature="20224:20273" ph="Select at le... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/figureViewDialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="48" column="25" lean-forward="true" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/figureViewDialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="48" column="25" lean-forward="false" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/changePassword.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="108" column="0" lean-forward="true" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="28" column="68" lean-forward="false" selection-start-line="28" selection-start-column="68" selection-end-line="28" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contactus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tableVisualization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../aSetUp.py" />
+    <entry file="file://C:/Python27/Lib/xml/etree/ElementTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="646" column="0" lean-forward="false" selection-start-line="646" selection-start-column="0" selection-end-line="646" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../untitled 5.3.18(tanslation) - Working/windowVisualization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="951" column="37" lean-forward="false" selection-start-line="951" selection-start-column="37" selection-end-line="951" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#27#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../untitled 5.3.18(tanslation) - Working/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sources/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aSetUp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/skimage/feature/texture.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="135" column="0" lean-forward="false" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="50" lean-forward="false" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+          <folding>
+            <marker date="1524113500769" expanded="true" signature="8918:8966" ph="DROP TABLE I... " />
+            <marker date="1524113500769" expanded="true" signature="9077:9125" ph="DROP TABLE I... " />
+            <marker date="1524113500769" expanded="true" signature="9236:9286" ph="DROP TABLE I... " />
+            <marker date="1524113500769" expanded="true" signature="9524:9654" ph="SELECT usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="9901:9988" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524113500769" expanded="true" signature="10031:10206" ph="SELECT DISTI... table_privileges" />
+            <marker date="1524113500769" expanded="true" signature="11453:11583" ph="SELECT usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="11932:12019" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524113500769" expanded="true" signature="12164:12236" ph="SELECT table... pg_tables" />
+            <marker date="1524113500769" expanded="true" signature="13312:13398" ph="SELECT usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="14607:14672" ph="SELECT * FRO... PG_SHADOW" />
+            <marker date="1524113500769" expanded="true" signature="18594:18622" ph="SELECT GRONA... PG_GROUP" />
+            <marker date="1524113500769" expanded="true" signature="20678:20766" ph="select usena... pg_shadow" />
+            <marker date="1524113500769" expanded="true" signature="21432:21530" ph="UPDATE passw... " />
+            <marker date="1524113500769" expanded="true" signature="23023:23087" ph="DELETE FROM " />
+            <marker date="1524113500769" expanded="true" signature="23176:23264" ph="select usena... pg_shadow" />
+            <marker date="1524113500769" expanded="true" signature="25675:25702" ph="select usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="25851:25879" ph="select grona... pg_group" />
+            <marker date="1524113500769" expanded="true" signature="28353:28381" ph="SELECT GRONA... PG_GROUP" />
+            <marker date="1524113500769" expanded="true" signature="29639:29727" ph="select usena... pg_shadow" />
+            <marker date="1524113500769" expanded="true" signature="30528:30596" ph="INSERT INTO password_change_status... " />
+            <marker date="1524113500769" expanded="true" signature="33691:33817" ph="SELECT usena... pg_user" />
+            <marker date="1524113500769" expanded="true" signature="34036:34123" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524113500769" expanded="true" signature="34158:34324" ph="SELECT DISTI... table_privileges" />
+            <marker date="1524113500769" expanded="true" signature="34823:34911" ph="select usena... pg_shadow" />
+            <marker date="1524113500769" expanded="true" signature="35213:35241" ph="SELECT GRONA... PG_GROUP" />
+            <marker date="1524113500769" expanded="true" signature="35936:36025" ph="SELECT secur... password_change_status" />
+            <marker date="1524113500769" expanded="true" signature="39933:40020" ph="SELECT DISTI... pg_tables" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/windowVisualization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3264">
+          <caret line="111" column="87" lean-forward="false" selection-start-line="111" selection-start-column="87" selection-end-line="111" selection-end-column="87" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+            <marker date="1524121358988" expanded="true" signature="7245:7375" ph="SELECT usena... pg_user" />
+            <marker date="1524121358988" expanded="true" signature="9962:10088" ph="SELECT usena... pg_user" />
+            <marker date="1524121358988" expanded="true" signature="10307:10411" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524121358988" expanded="true" signature="10446:10615" ph="SELECT DISTI... table_privileges" />
+            <marker date="1524121358988" expanded="true" signature="14534:14660" ph="SELECT usena... pg_user" />
+            <marker date="1524121358988" expanded="true" signature="14879:14966" ph="SELECT DISTI... pg_tables" />
+            <marker date="1524121358988" expanded="true" signature="15001:15172" ph="SELECT DISTI... table_privileges" />
+            <marker date="1524121358988" expanded="true" signature="19246:19281" ph="Select at le... " />
+            <marker date="1524121358988" expanded="true" signature="20224:20273" ph="Select at le... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
